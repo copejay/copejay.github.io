@@ -1,6 +1,18 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
+
+  head: [
+    [
+      'script',
+      {
+        async: '',
+        src: '//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js'
+      }
+    ]
+  ],
+
+
   title: 'CopeJay个人博客',
   description: 'Game Developer',
 

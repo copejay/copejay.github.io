@@ -7,6 +7,7 @@
 ---
 ![UI界面](/picture/ui.png)
 
+本站访问量：<span id="busuanzi_value_site_pv"></span>
 
 ## 💬 留言
 欢迎在这里交流：
