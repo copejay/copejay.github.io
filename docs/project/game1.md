@@ -14,6 +14,24 @@
 ## 系统架构图
 ![系统架构图](/picture/game/yltx/system.png)
 
+## 游戏内运行图
+<div style="display:flex; gap:10px;">
+  <img src="/picture/game/YuLin/openWorld.jpg" width="200">
+
+  <img src="/picture/game/YuLin/bag.jpg" width="200">
+
+  <img src="/picture/game/YuLin/duiwu.jpg" width="200">
+
+</div>
+
+<div>
+  <img src="/picture/game/YuLin/fight.jpg" width="200">
+
+  <img src="/picture/game/YuLin/RoleBase.jpg" width="200">
+
+  <img src="/picture/game/YuLin/RoleMore.jpg" width="200">
+</div>
+
 
 ## 🎮 战斗演示
 
